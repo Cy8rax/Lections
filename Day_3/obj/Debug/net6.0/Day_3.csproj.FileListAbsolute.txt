@@ -1,0 +1,15 @@
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/Day_3.csproj.AssemblyReference.cache
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/Day_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/Day_3.AssemblyInfoInputs.cache
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/Day_3.AssemblyInfo.cs
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/Day_3.csproj.CoreCompileInputs.cache
+/home/cy8rax/Desktop/Lection C#/Day_3/bin/Debug/net6.0/Day_3
+/home/cy8rax/Desktop/Lection C#/Day_3/bin/Debug/net6.0/Day_3.deps.json
+/home/cy8rax/Desktop/Lection C#/Day_3/bin/Debug/net6.0/Day_3.runtimeconfig.json
+/home/cy8rax/Desktop/Lection C#/Day_3/bin/Debug/net6.0/Day_3.dll
+/home/cy8rax/Desktop/Lection C#/Day_3/bin/Debug/net6.0/ref/Day_3.dll
+/home/cy8rax/Desktop/Lection C#/Day_3/bin/Debug/net6.0/Day_3.pdb
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/Day_3.dll
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/ref/Day_3.dll
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/Day_3.pdb
+/home/cy8rax/Desktop/Lection C#/Day_3/obj/Debug/net6.0/Day_3.genruntimeconfig.cache
